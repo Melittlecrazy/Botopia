@@ -16,7 +16,7 @@ namespace Botopia
 			SetUp();
 
 			Greetings();
-
+			Menu();
 		}
 		private void Greetings()
 		{
