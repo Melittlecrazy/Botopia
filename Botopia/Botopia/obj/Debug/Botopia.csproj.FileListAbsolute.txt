@@ -4,3 +4,9 @@ C:\Users\marc.gutierrez\Documents\GitHub\Botopia\Botopia\Botopia\bin\Debug\Botop
 C:\Users\marc.gutierrez\Documents\GitHub\Botopia\Botopia\Botopia\obj\Debug\Botopia.csprojAssemblyReference.cache
 C:\Users\marc.gutierrez\Documents\GitHub\Botopia\Botopia\Botopia\obj\Debug\Botopia.exe
 C:\Users\marc.gutierrez\Documents\GitHub\Botopia\Botopia\Botopia\obj\Debug\Botopia.pdb
+C:\Users\Marc G\Documents\GitHub\Botopia\Botopia\Botopia\bin\Debug\Botopia.exe.config
+C:\Users\Marc G\Documents\GitHub\Botopia\Botopia\Botopia\bin\Debug\Botopia.exe
+C:\Users\Marc G\Documents\GitHub\Botopia\Botopia\Botopia\bin\Debug\Botopia.pdb
+C:\Users\Marc G\Documents\GitHub\Botopia\Botopia\Botopia\obj\Debug\Botopia.csprojAssemblyReference.cache
+C:\Users\Marc G\Documents\GitHub\Botopia\Botopia\Botopia\obj\Debug\Botopia.exe
+C:\Users\Marc G\Documents\GitHub\Botopia\Botopia\Botopia\obj\Debug\Botopia.pdb

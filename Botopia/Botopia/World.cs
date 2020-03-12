@@ -14,9 +14,9 @@ namespace Botopia
 		public World()
 		{
 			SetUp();
-
-			Greetings();
 			Menu();
+			Greetings();
+			
 		}
 		private void Greetings()
 		{
@@ -31,8 +31,10 @@ namespace Botopia
 		}
 		public void Menu()
 		{
+			WriteLine("");
 			if (Hasbot())
 			{
+				
 				Print("which bot do you want to adopt?");
 				foreach (Bot bot in bots)
 				{
@@ -40,6 +42,11 @@ namespace Botopia
 				}
 			}
 			string input = ReadLine();
+			if (input == "trabot")
+			{
+				Trabot.Run();
+					
+			}
 		}
 
 		private bool Hasbot()
@@ -51,9 +58,9 @@ namespace Botopia
 
 		private void Adopt()
 		{
-			bots.Add(new Bot("Dragoon", "I am a regular dragon.", 000001));
-			bots.Add(new Trabot("Falkor", "Let's read books!", 000002));
-			bots.Add(new Sharkbot("Smog", "Give me gold.",000003));
+			bots.Add(new Bot("Genericbot", "I am a regular bot.", 000001));
+			bots.Add(new Trabot("Trabot", "Let's read books!", 000002));
+			bots.Add(new Sharkbot("Sharkbot", "Give me gold.",000003));
 		}
 	}
 }

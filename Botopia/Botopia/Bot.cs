@@ -11,7 +11,7 @@ namespace Botopia
 {
     class Bot
     {
-		private string name = "Tis a dragoon!";
+		private string name = "Beep Bop boop!";
 		public string Name { get => name; set => name = value; }
 		public string Description = "";
 		private const int ID = 0;
@@ -24,9 +24,10 @@ namespace Botopia
 		{
 			Print(_message);
 		}
-		public Bot(string _name, string _discription, int _ID)
+		public Bot(string _name, string _description, int _ID)
 		{
 			name = _name;
+			Description = _description;
 			
 		}
 	}
