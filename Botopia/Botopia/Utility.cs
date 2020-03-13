@@ -11,7 +11,15 @@ namespace Botopia
     {
         public static void Print(string _message)
         {
-            WriteLine();
+            WriteLine(_message);
+        }
+        public static Random RanNum = new Random();
+        internal enum Suit : byte
+        {
+            Clubs,
+            Spades,
+            Diamonds,
+            Hearts
         }
     }
 }

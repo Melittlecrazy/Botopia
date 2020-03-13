@@ -17,7 +17,12 @@ namespace Botopia
 		private const int ID = 0;
 
 
-		public virtual void Act() { }
+		public static void Act() 
+		{
+			Timer.date();
+			
+			ReadKey();
+		}
 
 		public virtual void Status(){}
 		public void Status(string _message)

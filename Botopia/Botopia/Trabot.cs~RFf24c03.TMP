@@ -22,7 +22,7 @@ namespace Botopia
             dictionary.Add("McDonald's", "buys about 2 billion eggs every year for their U.S. restaurants alone.");
             dictionary.Add("Brendan Behan", "Irish poet became an alcoholic at the age of eight");
 
-            WriteLine("Hi, I'm Alex Trabot, wanna learn some facts?");
+            WriteLine("This is Trabot, wanna learn some facts?");
             Q1();
             void Q1()
             {
@@ -73,8 +73,6 @@ namespace Botopia
                 if (search == "Brendan Behan" && dictionary.TryGetValue("Brendan Behan", out string description))
                 {
                     WriteLine("Correct! The Irish poet Brendan Behan became an alcoholic at the age of eight.");
-                    WriteLine("Press anykey to go back to the menu...");
-                    ReadKey();
                     World world = new World();
                 }
                 else

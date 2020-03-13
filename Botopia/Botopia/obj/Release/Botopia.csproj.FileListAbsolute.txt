@@ -1,0 +1,6 @@
+C:\Users\Marc G\Documents\GitHub\Botopia\Botopia\Botopia\bin\Release\Botopia.exe.config
+C:\Users\Marc G\Documents\GitHub\Botopia\Botopia\Botopia\bin\Release\Botopia.exe
+C:\Users\Marc G\Documents\GitHub\Botopia\Botopia\Botopia\bin\Release\Botopia.pdb
+C:\Users\Marc G\Documents\GitHub\Botopia\Botopia\Botopia\obj\Release\Botopia.csprojAssemblyReference.cache
+C:\Users\Marc G\Documents\GitHub\Botopia\Botopia\Botopia\obj\Release\Botopia.exe
+C:\Users\Marc G\Documents\GitHub\Botopia\Botopia\Botopia\obj\Release\Botopia.pdb

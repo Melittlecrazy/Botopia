@@ -44,9 +44,11 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Bot.cs" />
+    <Compile Include="CardsANDdeck.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Sharkbot.cs" />
+    <Compile Include="Timer.cs" />
     <Compile Include="Trabot.cs" />
     <Compile Include="Utility.cs" />
     <Compile Include="World.cs" />
